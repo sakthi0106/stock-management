@@ -1,0 +1,8 @@
+{
+  "backend_url": "http://127.0.0.1:8000",
+  "agent_api_key": "corp-sync-agent-secret-auth-token-2026",
+  "excel_file_path": "C:\\Users\\amdha\\Downloads\\ACCESORIES STOCK OCT26-07.xlsx",
+  "poll_interval_seconds": 60,
+  "max_lock_retries": 5,
+  "lock_retry_delay_seconds": 3
+}
